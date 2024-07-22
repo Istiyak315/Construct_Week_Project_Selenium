@@ -32,7 +32,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Gitbash-17202C)
 
-## Source Control Tools
+## Testing Tools
 
 ![Static Badge](https://img.shields.io/badge/Selenium-17202C)
 
