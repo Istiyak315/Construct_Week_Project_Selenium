@@ -8,10 +8,15 @@
 
 2. Welcome to the DummyJSON Carts API Project! This project provides a comprehensive framework for interacting with the DummyJSON Carts API . The DummyJSON Carts API offers a variety of endpoints to create, retrieve, update, and delete shopping carts
 
+
 ## Project Type
 
 1. Automation Testing
 2. API Testing 
+
+
+## Video Walkthrough of the project
+https://vimeo.com/988299969?share=copy
 
 # Deployed Web Page
 
