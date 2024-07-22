@@ -1,4 +1,5 @@
-# Selenium and API Hands On Project
+
+<h1 style="font-family: "Arial", sans-serif">Selenium and API Hands On Project</h1>
 
 <h1 style="text-align: center;">Automated Webpage Qafox.com</h1>
 <img src = "https://github.com/user-attachments/assets/7120d718-b14a-4f8b-8dec-9ea6d9639004">
